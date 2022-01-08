@@ -233,7 +233,7 @@ intro(void)
   printf("    `-------- --'      / /\n");
   printf("             \\\\-------  --\n");
   printf("             '-----------'\n");
-  printf("\   The ISS Endeavour --- UCC - 1367\n\n\n");
+  printf("\n   The ISS Endeavour --- UCC - 1367\n\n\n");
 
   randomize();
 
